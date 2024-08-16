@@ -72,6 +72,6 @@ For each test case, print a single integer — the smallest number of doors you 
 
 .
 
-**Algorithim **
+**Algorithim**
 >brute force
  >implementation
