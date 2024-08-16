@@ -69,4 +69,9 @@ For each test case, print a single integer — the smallest number of doors you 
 
 - In the third test case, the following doors have to be locked: (5,6)
  and (6,7)
+
 .
+
+**Algorithim **
+>brute force
+ >implementation
